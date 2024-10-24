@@ -43,7 +43,7 @@ To run this project locally, ensure you have the following installed:
 Node.js (version 12 or above)
 npm or yarn to manage dependencies
 Installation
-1. Clone the repository:git clone https://github.com/rajnishpark03/todo_app.git
+1. Clone the repository:git clone https://github.com/rajnishpark03/TaskManagement.git
 2. Navigate to the project directory:cd task-manager
 3. Install dependencies:node app.js
 4. Run the application:node app.js
